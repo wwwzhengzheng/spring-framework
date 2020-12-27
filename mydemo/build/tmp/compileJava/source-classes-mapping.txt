@@ -1,0 +1,10 @@
+com/zz/bean/X.java
+ com.zz.bean.X
+com/zz/bean/Person.java
+ com.zz.bean.Person
+com/zz/bean/Y.java
+ com.zz.bean.Y
+com/zz/config/Appconfig.java
+ com.zz.config.Appconfig
+DemoMain.java
+ DemoMain
