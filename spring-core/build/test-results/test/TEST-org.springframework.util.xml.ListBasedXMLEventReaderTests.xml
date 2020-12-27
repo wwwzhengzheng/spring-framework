@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.util.xml.ListBasedXMLEventReaderTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-21T06:24:43" hostname="LAPTOP-B97AJCLT" time="0.082">
+  <properties/>
+  <testcase name="getElementText()" classname="org.springframework.util.xml.ListBasedXMLEventReaderTests" time="0.053"/>
+  <testcase name="getElementTextThrowsExceptionAtWrongPosition()" classname="org.springframework.util.xml.ListBasedXMLEventReaderTests" time="0.0"/>
+  <testcase name="standard()" classname="org.springframework.util.xml.ListBasedXMLEventReaderTests" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-12-21T06:24:37" hostname="LAPTOP-B97AJCLT" time="0.075">
+  <properties/>
+  <testcase name="fromSingle()" classname="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" time="0.041"/>
+  <testcase name="toObservable()" classname="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" time="0.009"/>
+  <testcase name="fromCompletable()" classname="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" time="0.002"/>
+  <testcase name="toSingle()" classname="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" time="0.001"/>
+  <testcase name="toCompletable()" classname="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" time="0.001"/>
+  <testcase name="fromFlowable()" classname="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" time="0.007"/>
+  <testcase name="defaultAdapterRegistrations()" classname="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" time="0.001"/>
+  <testcase name="fromObservable()" classname="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" time="0.009"/>
+  <testcase name="toFlowable()" classname="org.springframework.core.ReactiveAdapterRegistryTests$RxJava2" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

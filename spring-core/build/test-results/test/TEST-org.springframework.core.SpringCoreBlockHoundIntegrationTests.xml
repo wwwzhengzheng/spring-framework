@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.SpringCoreBlockHoundIntegrationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-21T06:24:39" hostname="LAPTOP-B97AJCLT" time="0.113">
+  <properties/>
+  <testcase name="localVariableTableParameterNameDiscoverer()" classname="org.springframework.core.SpringCoreBlockHoundIntegrationTests" time="0.024"/>
+  <testcase name="concurrentReferenceHashMap()" classname="org.springframework.core.SpringCoreBlockHoundIntegrationTests" time="0.082"/>
+  <testcase name="blockHoundIsInstalled()" classname="org.springframework.core.SpringCoreBlockHoundIntegrationTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

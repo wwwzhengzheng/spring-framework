@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.22">
+<file name="D:\myworkspace\spring-framework\spring-core\src\jmh\java\org\springframework\core\codec\StringDecoderBenchmark.java">
+</file>
+<file name="D:\myworkspace\spring-framework\spring-core\src\jmh\java\org\springframework\core\convert\support\GenericConversionServiceBenchmark.java">
+</file>
+<file name="D:\myworkspace\spring-framework\spring-core\src\jmh\java\org\springframework\util\ReflectionUtilsUniqueDeclaredMethodsBenchmark.java">
+</file>
+<file name="D:\myworkspace\spring-framework\spring-core\src\jmh\java\org\springframework\core\codec\StringDecoderBenchmark.java">
+</file>
+<file name="D:\myworkspace\spring-framework\spring-core\src\jmh\java\org\springframework\core\convert\support\GenericConversionServiceBenchmark.java">
+</file>
+<file name="D:\myworkspace\spring-framework\spring-core\src\jmh\java\org\springframework\util\ReflectionUtilsUniqueDeclaredMethodsBenchmark.java">
+</file>
+</checkstyle>
